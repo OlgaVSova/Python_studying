@@ -1,3 +1,4 @@
+#НОК, НОД, алгорит Евклида
 import time
 start_time = time.time()
 
